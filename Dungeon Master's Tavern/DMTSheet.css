@@ -1,0 +1,50 @@
+
+.navbar {
+  overflow: hidden;
+  background-color: #805233;
+  font-family: "georgia", serf;
+
+}
+
+.navbar a {
+  float: left;
+  font-size: 30px;
+  font-family: "georgia", serf;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: underline overline;
+}
+
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #FF8CF6;
+  color: #6F1168;
+}
+
+Body {background-color: #F8D0B6; font-family: Arial}
+h1 {
+color: #3B1800;
+font-family: "georgia", serif;
+text-align: center;
+}
+
+p {
+color:  saddlebrown; 
+font-family: "hoefler text", serif;
+text-align: center;
+font-size: 30px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer img {
+   width: 40px;
+   height: 40px
+   margin-left: .5em;
+   margin-right: .5em;
+}
